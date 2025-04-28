@@ -63,5 +63,7 @@ Analisar a adaptação do markup dos três maiores frigoríficos do Brasil (JBS,
 ## Autora
 
 **Bruna Derner Alvares**  
-Bacharel em Ciências Econômicas - Universidade Federal do Mato Grosso (UFMT)
+Economista e Analista de Dados 
+
+[Linkedin](https://www.linkedin.com/in/bruna-derner/)
 
