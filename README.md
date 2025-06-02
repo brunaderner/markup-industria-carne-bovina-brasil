@@ -18,6 +18,7 @@ Analisar a adaptação do markup dos três maiores frigoríficos do Brasil (JBS,
 - **dados/**: Conjunto de dados de variação de preços de carne e boi gordo, lucros e custos dos frigoríficos (arquivo `.xlsx`)
 - **scripts/**: Código em R para ajuste dos modelos econométricos e geração dos resultados (`r vecm.R`)
 - **monografia/**: Documento acadêmico com todo o desenvolvimento teórico, metodológico e discussão de resultados (`Monografia Bruna Derner FINAL.docx`)
+- **apresentação/**: Apresentação com os principais insights (Apresentação Bruna.pdf)
 
 ## Arquivos do Projeto
 
